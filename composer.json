@@ -1,0 +1,17 @@
+{
+    "name": "dmsystem/my-ci",
+    "description": "Codeigniter Admin",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^4.4",
+        "codeigniter/framework": "^3.1",
+        "components/jquery": "^3.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dixon Martinez",
+            "email": "dixonalvarezm@gmail.com"
+        }
+    ]
+}
